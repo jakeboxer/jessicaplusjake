@@ -12,9 +12,10 @@
 
 .seven-up {
   display: block;
-  width: 356px;
+  width: 370px;
   margin: 0 auto;
   background-color: #ffffff;
+  text-align: center;
 }
 
 .west-elm {

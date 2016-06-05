@@ -223,9 +223,9 @@ textarea {
 
 body {
   margin: 0;
-  font-family: "Times New Roman";
-  font-size: 16px;
-  line-height: 20px;
+  font-family: "Times New Roman", serif;
+  font-size: 20px;
+  line-height: 24px;
   background-image: url("../images/bg.gif");
   color: #ffffff;
 }
