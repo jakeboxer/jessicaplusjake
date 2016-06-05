@@ -1,3 +1,8 @@
+.content h1 {
+  text-align: center;
+  border: 1px dashed #ffff00;
+}
+
 .responses-header {
   font-family: "Papyrus", "Times New Roman", serif;
   font-weight: normal;
@@ -10,4 +15,9 @@
   width: 356px;
   margin: 0 auto;
   background-color: #ffffff;
+}
+
+.west-elm {
+  font-family: "Papyrus", "Times New Roman", serif;
+  font-size: 72px;
 }
