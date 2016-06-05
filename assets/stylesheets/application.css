@@ -1,0 +1,13 @@
+.responses-header {
+  font-family: "Papyrus", "Times New Roman", serif;
+  font-weight: normal;
+  font-size: 72px;
+  color: #ffff00;
+}
+
+.seven-up {
+  display: block;
+  width: 356px;
+  margin: 0 auto;
+  background-color: #ffffff;
+}
