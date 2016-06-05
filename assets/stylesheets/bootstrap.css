@@ -77,9 +77,8 @@ a:focus {
   outline-offset: -2px;
 }
 
-a:hover,
 a:active {
-  outline: 0;
+  color: #ff0000;
 }
 
 sub,
