@@ -35,3 +35,7 @@
 a img {
   border: 4px solid;
 }
+
+a.counter img {
+  border: 0;
+}
